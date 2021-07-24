@@ -23,4 +23,4 @@ pip install -r requirements.txt
     ```
 
 ## Contribution
-This project is a updated version of [gitlab](https://github.com/xiaoyaolaotou/gitlab).
+This project is an updated version of [gitlab](https://github.com/xiaoyaolaotou/gitlab).
